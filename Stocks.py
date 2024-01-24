@@ -116,4 +116,4 @@ async def remind(ctx, time="5m", *, message="Here is your reminder!"):
     await ctx.send(f'Hey {user.mention}! {message}')
 
 
-bot.run("Nzc1NTM3NTExNDAxMTI3OTk2.X6nxlw.Q5QvcoQXU-XuUt0EImNlRFv77B4")
+bot.run("token")
